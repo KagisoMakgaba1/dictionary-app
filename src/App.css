@@ -3,8 +3,8 @@
   
 }
 
-
-
-
-
-
+.container {
+  background: rgba(211, 33, 149, 0.5) ;
+  border-radius: 18px;
+  padding: 10px;
+}
