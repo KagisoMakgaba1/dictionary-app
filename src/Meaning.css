@@ -1,0 +1,12 @@
+.Meaning {
+    text-align: left;
+}
+
+.Meaning p {
+    font-size: 15px;
+}
+
+.Meaning em {
+    font-weight: 400;
+    font-size: 16px;
+}
