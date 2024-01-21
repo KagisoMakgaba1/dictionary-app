@@ -44,6 +44,11 @@ function handleSubmit(event) {
         setKeyword(event.target.value);
     }
 
+    /*useEffect(() => {
+    load();
+  }, );*/
+
+
     if (loaded) {
       return (
     <div className="Dictionary mt-5">
