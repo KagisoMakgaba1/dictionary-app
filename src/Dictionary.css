@@ -20,3 +20,19 @@
   color: var(--text-color);
   margin: 30px 10px -30px 10px;
 }
+
+.Dictionary .extra-info-button {
+  color: rgba(243, 6, 144, 0.3);
+  text-decoration: none;
+  padding: 5px 13px 9px;
+  border: rgba(243, 6, 144, 0.3) solid 1px;
+  border-radius: 30px;
+  transition: all 250ms ease-in-out;
+  margin: 0 10px 0 0;
+  font-size: 13px;
+  display: block;
+  text-align: center;
+
+  background-color: rgba(243, 6, 144, 0.3);
+  color: dimgrey;
+}
