@@ -27,7 +27,16 @@ function App() {
               >
                 Github
               </a>
-              , and hosted on Netlify
+              , and hosted on{" "}
+              <a
+                href="https://taupe-truffle-3cec5e.netlify.app"
+                className="App-link"
+                target="_blank"
+                rel="noreferrer noopener" alt="Link to dictionary app on Netlify"
+              >
+                {" "}
+                Netlify
+              </a>
             </p>
           </small>
         </footer>
